@@ -1,2 +1,4 @@
-# ibm_dl
-from ibm DL course - 2022
+# DeepL - IBM
+practice notebooks from ibm DL course - 04/2022
+
+
