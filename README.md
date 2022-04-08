@@ -1,4 +1,4 @@
 # DeepL - IBM
-practice notebooks from ibm DL course - 04/2022
+practice notebooks from ibm DL - 04/2022
 
 
